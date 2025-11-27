@@ -27,10 +27,9 @@ When users create issues, they'll be prompted to use these templates, ensuring c
 
 **Location:** `FUNDING.yml`
 
-Links to the author's published book on Amazon:
+Links to the my published book on Amazon:
 **["Linux Basics and Cheat Sheets"](https://www.amazon.com/Linux-Basics-Cheat-Sheets-Osisek/dp/B0CGL65W3J/)**
 
-Displays a "Sponsor" button on the repository with a link to support the author.
 
 ## 🎯 Purpose
 
