@@ -1,5 +1,5 @@
 # Core dependencies
-click>=8.1.0
+click>=8.5.0
 rich>=13.0.0
 psutil>=5.9.0
 
